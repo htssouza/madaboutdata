@@ -1,13 +1,13 @@
 README
 ======
 
-Blogs
------
+Blogs&Sites
+-----------
 
- - http://www.willmcginnis.com/
- - https://www.analyticsvidhya.com
+ - http://www.analyticsvidhya.com
  - http://www.kdnuggets.com/
-
+ - http://www.oreilly.com/data
+ - http://www.willmcginnis.com/
 
 Competitions
 ------------
@@ -35,3 +35,9 @@ Learning guides
 
 - http://www.deeplearningweekly.com/pages/open_source_deep_learning_curriculum
 - http://datasciencemasters.org/
+
+Tutorials
+---------
+
+Parallel Computing:
+ - https://computing.llnl.gov/tutorials/parallel_comp/
