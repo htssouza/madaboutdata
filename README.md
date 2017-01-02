@@ -29,6 +29,7 @@ FAQ
 ---
 
 - http://fusionanalyticsworld.com/2016/11/75-must-know-data-science-interview-questions/
+- http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/
 
 Learning guides
 ---------------
