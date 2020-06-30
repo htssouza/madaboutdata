@@ -49,7 +49,6 @@ Brazil Datasets
   - http://www.unesco.org/new/pt/brasilia/about-this-office/unesco-resources-in-brazil/statistics/
   - https://www.investidor.gov.br/menu/Investidor_Estrangeiro/DadosEstatisticosEconomicosBrasil.html
 
-
 E-Books
 -------
 
@@ -71,4 +70,5 @@ Tutorials
 ---------
 
 Parallel Computing:
+
 - https://computing.llnl.gov/tutorials/parallel_comp/
