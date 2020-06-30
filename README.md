@@ -1,29 +1,59 @@
 README
 ======
 
+Collection of "data" related blogs, datasets and e-books.
+
 Blogs&Sites
 -----------
 
- - http://www.analyticsvidhya.com
- - http://www.kdnuggets.com/
- - http://www.oreilly.com/data
- - http://www.willmcginnis.com/
+- https://www.analyticsvidhya.com
+- https://www.kdnuggets.com/
+- http://www.oreilly.com/data
+- http://www.willmcginnis.com/
 
 Competitions
 ------------
 
- - http://www.kaggle.com
+- https://www.kaggle.com
 
-Datasets
---------
+International Datasets
+----------------------
 
- - https://www.kaggle.com/datasets
+- https://www.kaggle.com/datasets
+- https://www.kdnuggets.com/datasets/index.html
+- https://archive.ics.uci.edu/ml/index.php
+- https://www.sheffield.ac.uk/library/rdm/repositories
+- https://archive.data.jhu.edu/
+- https://data.un.org
+- https://data.gov
+- https://www.data.gov/open-gov/
+
+Brazil Datasets
+---------------
+
+- DOU:
+  - http://pesquisa.in.gov.br
+- IBGE
+  - http://dados.gov.br
+  - https://sidra.ibge.gov.br/home/
+  - http://www.portaltransparencia.gov.br
+  - https://www2.camara.leg.br/orcamento-da-uniao
+  - https://www.tesourotransparente.gov.br/ckan/dataset/lista-de-orgaos-do-siafi
+
+- BCB
+  - https://olinda.bcb.gov.br
+  - https://sisweb.tesouro.gov.br
+
+- CGU
+  - http://www.cgu.gov.br/
+  - http://www.unesco.org/new/pt/brasilia/about-this-office/unesco-resources-in-brazil/statistics/
+  - https://www.investidor.gov.br/menu/Investidor_Estrangeiro/DadosEstatisticosEconomicosBrasil.html
 
 
 E-Books
 -------
 
- - https://www.packtpub.com/packt/offers/free-learning
+- https://www.packtpub.com/packt/offers/free-learning
 
 FAQ
 ---
@@ -41,4 +71,4 @@ Tutorials
 ---------
 
 Parallel Computing:
- - https://computing.llnl.gov/tutorials/parallel_comp/
+- https://computing.llnl.gov/tutorials/parallel_comp/
