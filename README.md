@@ -16,14 +16,21 @@ Competitions
 
 - https://www.kaggle.com
 
-International Datasets
-----------------------
+Dataset Collections
+-------------------
 
+- https://github.com/awesomedata/awesome-public-datasets
+- https://github.com/curran/data
+- https://datahub.io/collections
 - https://www.kaggle.com/datasets
 - https://www.kdnuggets.com/datasets/index.html
 - https://archive.ics.uci.edu/ml/index.php
 - https://www.sheffield.ac.uk/library/rdm/repositories
 - https://archive.data.jhu.edu/
+
+International Datasets
+----------------------
+
 - https://data.un.org
 - https://data.gov
 - https://www.data.gov/open-gov/
@@ -48,6 +55,13 @@ Brazil Datasets
   - http://www.cgu.gov.br/
   - http://www.unesco.org/new/pt/brasilia/about-this-office/unesco-resources-in-brazil/statistics/
   - https://www.investidor.gov.br/menu/Investidor_Estrangeiro/DadosEstatisticosEconomicosBrasil.html
+
+Pharma
+------
+
+- https://www.phactmi.org/
+- https://dailymed.nlm.nih.gov/dailymed/
+- https://www.nlm.nih.gov/research/umls/rxnorm/index.html
 
 E-Books
 -------
