@@ -4,9 +4,9 @@ MLOops
 Architecture
 ------------
 
-- https://www.youtube.com/watch?v=_jnhXzY1HCw
-- https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf
-- https://developers.google.com/machine-learning/guides/rules-of-ml
+- [What is ML Ops? Best Practices for DevOps for ML (Cloud Next '18)](https://www.youtube.com/watch?v=_jnhXzY1HCw)
+- [Machine Learning: The High-Interest Credit Card of Technical Debt](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf)
+- [Rules of Machine Learning: Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml)
 
 Platforms
 ---------
