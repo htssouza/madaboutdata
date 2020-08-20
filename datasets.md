@@ -9,6 +9,7 @@ Dataset Collections
 - [CMU Statlib](http://lib.stat.cmu.edu/datasets/)
 - [Data Hub](]https://datahub.io/collections)
 - [Gene expression omnibus](http://www.ncbi.nlm.nih.gov/geo/)
+- [Google Research](https://datasetsearch.research.google.com/)
 - [Interesting Datasets](https://github.com/curran/data)
 - [Jeff Hammerbacher's Quota Introduction to Data Science: Data Sets](http://www.quora.com/Jeff-Hammerbacher/Introduction-to-Data-Science-Data-Sets)
 - [Johns Hopkins Data Services](https://archive.data.jhu.edu/)
@@ -26,7 +27,6 @@ Healthcare Datasets
 - [Centers for Disease Control and Prevention](https://www.cdc.gov/)
 - [HCUP: Datasets from US hospitals](https://hcup-us.ahrq.gov/databases.jsp)
 - [ELVIRA Biomedical Data Set Repository](http://leo.ugr.es/elvira/DBCRepository/)
-- [Medical Speech, Transcription, and Intent](https://www.kaggle.com/paultimothymooney/medical-speech-transcription-and-intent)
 - [Medicare](https://data.medicare.gov/data)
 - [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
 - [RxNorm](https://www.nlm.nih.gov/research/umls/rxnorm/index.html) 
@@ -41,6 +41,13 @@ Healthcare Imaging Datasets
 - [Medical Image Datasets](https://grand-challenge.org/challenges/)
 - [OASIS - Open Access Series of Imaging Studies](http://www.oasis-brains.org/)
 - [OpenfMRI - MRI](https://openfmri.org/)
+
+Medical Speech Datasets
+-----------------------
+
+- [Medical Speech, Transcription, and Intent](https://www.kaggle.com/paultimothymooney/medical-speech-transcription-and-intent)
+- [Medical Speech, Transcription, and Intent (English)](https://appen.com/datasets/audio-recording-and-transcription-for-medical-scenarios/)
+- [Physician Dictation Audio & Transcribed Reports](https://www.ezdi.com/open-datasets/)
 
 NLP Conversational Datasets
 ---------------------------
