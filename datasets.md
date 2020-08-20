@@ -4,32 +4,43 @@ Datasets
 Dataset Collections
 -------------------
 
+- [ArXiv Data](http://arxiv.org/help/bulk_data)
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+- [CMU Statlib](http://lib.stat.cmu.edu/datasets/)
 - [Data Hub](]https://datahub.io/collections)
+- [Gene expression omnibus](http://www.ncbi.nlm.nih.gov/geo/)
 - [Interesting Datasets](https://github.com/curran/data)
 - [Jeff Hammerbacher's Quota Introduction to Data Science: Data Sets](http://www.quora.com/Jeff-Hammerbacher/Introduction-to-Data-Science-Data-Sets)
 - [Johns Hopkins Data Services](https://archive.data.jhu.edu/)
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
 - [KDD Nugets Datasets](http://www.kdnuggets.com/datasets/index.html)
-- [The University of Sheffield Research Data Repositories](https://www.sheffield.ac.uk/library/rdm/repositories)
-
-Specialized collections
------------------------
-
-- [ArXiv Data](http://arxiv.org/help/bulk_data)
-- [CMU Statlib](http://lib.stat.cmu.edu/datasets/)
-- [Gene expression omnibus](http://www.ncbi.nlm.nih.gov/geo/)
 - [Public Data Sets on Amazon Web Services](http://aws.amazon.com/publicdatasets/)
+- [Registry of Research Data Repository](https://www.re3data.org/)
 - [Stanford Large Network Data](http://snap.stanford.edu/data/)
+- [The University of Sheffield Research Data Repositories](https://www.sheffield.ac.uk/library/rdm/repositories)
 - [UCI Machine Learning](http://archive.ics.uci.edu/ml/)
 
-Pharma Datasets
----------------
+Healthcare Datasets
+-------------------
 
+- [Centers for Disease Control and Prevention](https://www.cdc.gov/)
+- [HCUP: Datasets from US hospitals](https://hcup-us.ahrq.gov/databases.jsp)
+- [ELVIRA Biomedical Data Set Repository](http://leo.ugr.es/elvira/DBCRepository/)
+- [Medical Speech, Transcription, and Intent](https://www.kaggle.com/paultimothymooney/medical-speech-transcription-and-intent)
+- [Medicare](https://data.medicare.gov/data)
 - [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
 - [RxNorm](https://www.nlm.nih.gov/research/umls/rxnorm/index.html) 
   See also https://www.phactmi.org/ and https://dailymed.nlm.nih.gov/dailymed/.
 - [The NCBI Disease Corpus](https://www.ncbi.nlm.nih.gov/CBBresearch/Dogan/DISEASE/)
+- [World Health Organization](https://apps.who.int/gho/data)
+
+Healthcare Imaging Datasets
+---------------------------
+
+- [CT Medical Images](https://www.kaggle.com/kmader/siim-medical-images)
+- [Medical Image Datasets](https://grand-challenge.org/challenges/)
+- [OASIS - Open Access Series of Imaging Studies](http://www.oasis-brains.org/)
+- [OpenfMRI - MRI](https://openfmri.org/)
 
 NLP Conversational Datasets
 ---------------------------
