@@ -27,6 +27,7 @@ Healthcare Datasets
 - [Centers for Disease Control and Prevention](https://www.cdc.gov/)
 - [HCUP: Datasets from US hospitals](https://hcup-us.ahrq.gov/databases.jsp)
 - [ELVIRA Biomedical Data Set Repository](http://leo.ugr.es/elvira/DBCRepository/)
+- [Informatics for Integrating Biology & The Bedside](https://www.i2b2.org/NLP/DataSets/)
 - [Medicare](https://data.medicare.gov/data)
 - [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
 - [RxNorm](https://www.nlm.nih.gov/research/umls/rxnorm/index.html) 
