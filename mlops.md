@@ -18,11 +18,16 @@ Platforms
 Python Libraries
 ----------------
 
-- https://pandas.pydata.org/
-- https://scikit-learn.org/
-- https://pytorch.org/
-- https://www.nltk.org/
-- https://spacy.io/
+- [An open source neural machine translation system](https://opennmt.net/)
+- [Industrial-Strength Natural Language Processing](https://spacy.io/)
+- [Machine Learning Framework](https://pytorch.org/)
+- [Machine Learning in Python](https://scikit-learn.org/)
+- [Natural Language Toolkit](https://www.nltk.org/)
+- [Pandas - Data Processing in Python](https://pandas.pydata.org/)
+- [Stemming algorithms](https://pypi.org/project/PyStemmer/1.0.1/)
+- [String processing language](https://snowballstem.org/)
+- [Topic Modelling for humans](https://radimrehurek.com/gensim/index.html)
+- [The Apache OpenNLP library is a machine learning based toolkit for the processing of natural language text](https://opennlp.apache.org/)
 
 Data Annotation Tools
 ---------------------
