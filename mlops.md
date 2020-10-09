@@ -1,4 +1,4 @@
-MLOops
+MLOps
 =====
 
 Architecture

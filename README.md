@@ -7,6 +7,8 @@ Other pages
 -----------
 
 - [Datasets](datasets.md)
+- [Events](events.md)
+- [Learning](learning.md)
 - [MLOps](mlops.md)
 
 Communities
@@ -28,8 +30,3 @@ Blogs&Sites
 - http://www.oreilly.com/data
 - http://www.willmcginnis.com/
 - https://ai.googleblog.com/
-
-Learning guides
----------------
-
-- [Machine Learning Roadmap 2020](https://whimsical.com/CA7f3ykvXpnJ9Az32vYXva)
