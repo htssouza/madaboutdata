@@ -6,6 +6,7 @@ Collection of "data" related blogs, datasets and e-books.
 Other pages
 -----------
 
+- [Books](books.md)
 - [Datasets](datasets.md)
 - [Events](events.md)
 - [Learning](learning.md)
