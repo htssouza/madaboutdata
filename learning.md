@@ -12,4 +12,5 @@ Courses
 Guides
 ------
 
+- [AI Expert Roadmap](https://i.am.ai/roadmap)
 - [Machine Learning Roadmap 2020](https://whimsical.com/CA7f3ykvXpnJ9Az32vYXva)
