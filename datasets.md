@@ -54,6 +54,7 @@ NLP Conversational Datasets
 ---------------------------
 
 - [MultiWOZ - A Large-Scale Multi-Domain Wizard-of-Oz Dataset for Task-Oriented Dialogue Modelling](https://www.aclweb.org/anthology/D18-1547/)
+- [The Pile - An 800GB Dataset of Diverse Text for Language Modeling](https://pile.eleuther.ai/)
 
 Open Government Sites
 ---------------------
