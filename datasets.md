@@ -7,7 +7,7 @@ Dataset Collections
 - [ArXiv Data](http://arxiv.org/help/bulk_data)
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 - [CMU Statlib](http://lib.stat.cmu.edu/datasets/)
-- [Data Hub](]https://datahub.io/collections)
+- [Data Hub](https://datahub.io/collections)
 - [Gene expression omnibus](http://www.ncbi.nlm.nih.gov/geo/)
 - [Google Research](https://datasetsearch.research.google.com/)
 - [Interesting Datasets](https://github.com/curran/data)
@@ -55,6 +55,35 @@ NLP Conversational Datasets
 
 - [MultiWOZ - A Large-Scale Multi-Domain Wizard-of-Oz Dataset for Task-Oriented Dialogue Modelling](https://www.aclweb.org/anthology/D18-1547/)
 - [The Pile - An 800GB Dataset of Diverse Text for Language Modeling](https://pile.eleuther.ai/)
+
+LLM & Generative AI Datasets
+-----------------------------
+
+### Dataset Hubs
+
+- [Hugging Face Datasets Hub](https://huggingface.co/datasets) - The largest hub of ready-to-use datasets for AI models, hosting over 600,000 public datasets across NLP, computer vision, audio, and more. Integrates with the `datasets` library for single-line loading and streaming.
+
+### LLM Pretraining Corpora
+
+- [RedPajama-Data-V2](https://huggingface.co/datasets/togethercomputer/RedPajama-Data-V2) - A 30-trillion-token open web dataset from Together AI, sourced from 84 Common Crawl dumps across five languages (English, French, Spanish, German, Italian), with 40+ quality annotations precomputed.
+- [Dolma](https://allenai.github.io/dolma/) - A 3-trillion-token open corpus from Allen Institute for AI (AI2), mixing web content, academic publications, code, books, and encyclopedic materials. Used to train the OLMo family of open language models. Licensed under ODC-BY.
+- [FineWeb](https://huggingface.co/datasets/HuggingFaceFW/fineweb) - A 15-trillion-token dataset from Hugging Face derived from 96 Common Crawl snapshots with aggressive quality filtering. FineWeb-Edu (1.3T tokens) is a high-quality educational subset that significantly outperforms other open pretraining corpora on knowledge benchmarks.
+
+### Instruction Tuning & RLHF Datasets
+
+- [Databricks Dolly 15k](https://huggingface.co/datasets/databricks/databricks-dolly-15k) - 15,000 human-written instruction-response pairs authored by over 5,000 Databricks employees. One of the first commercially permissive (CC BY-SA) instruction datasets covering Q&A, summarization, brainstorming, classification, and creative writing.
+- [OpenAssistant Conversations (OASST)](https://huggingface.co/datasets/OpenAssistant/oasst1) - 161,443 human-annotated messages in 35 languages organized into 10,000+ conversation trees, with 461,292 quality ratings. A large-scale, human-crafted multilingual assistant dialogue corpus for RLHF and SFT.
+- [LLMDataHub](https://github.com/Zjh-819/LLMDataHub) - A curated, community-maintained catalog of datasets for LLM training (pretraining, SFT, RLHF/DPO), with metadata on size, language, license, and usage for each entry.
+
+### LLM Evaluation Benchmarks
+
+- [MMLU (Massive Multitask Language Understanding)](https://huggingface.co/datasets/cais/mmlu) - 57-subject multiple-choice benchmark spanning STEM, humanities, and social sciences at high-school-to-professional difficulty. The standard general-knowledge evaluation benchmark; MMLU-Pro (12,000 harder questions, 10-choice) was introduced as models began saturating the original.
+- [HumanEval](https://huggingface.co/datasets/openai/openai_humaneval) - OpenAI's 164-problem coding benchmark measuring functional correctness of code generated from docstrings. A primary standard for evaluating code generation and reasoning capabilities of LLMs.
+
+### Multimodal Datasets
+
+- [LAION-5B](https://laion.ai/blog/laion-5b/) - 5.85 billion CLIP-filtered image-text pairs (2.32B in English), enabling open replication of models like CLIP, GLIDE, and Stable Diffusion. One of the largest open multimodal datasets ever released.
+- [DataComp](https://github.com/mlfoundations/datacomp) - A benchmark and dataset suite (2023) for studying how to build better multimodal training sets, providing CommonPool (12.8B image-text pairs from Common Crawl) alongside filtering and mixing baselines.
 
 Open Government Sites
 ---------------------
